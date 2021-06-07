@@ -1,0 +1,8 @@
+#map {
+  width: auto;
+  height: 800px;
+}
+
+#flightCount {
+  float: right;
+}
